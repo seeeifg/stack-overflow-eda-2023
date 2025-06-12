@@ -1,4 +1,6 @@
 # Exploratory Data Analysis of the 2023 Stack Overflow Developer Survey
+![github_header_svg](https://github.com/user-attachments/assets/f7c94ca0-0354-4d99-b27c-9f587efc4231)
+
 This project presents a comprehensive exploratory data analysis (EDA) of the 2023 Stack Overflow Developer Survey. The analysis uncovers patterns, behaviors, and preferences among developers worldwide through detailed data processing and visualizations.
 
 The 2023 Stack Overflow Developer Survey represents one of the most comprehensive datasets on the state of software development, providing insights into the global developer community.
