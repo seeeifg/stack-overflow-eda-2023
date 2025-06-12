@@ -1,17 +1,13 @@
 # Exploratory Data Analysis of the 2023 Stack Overflow Developer Survey
+This project presents a comprehensive exploratory data analysis (EDA) of the 2023 Stack Overflow Developer Survey. The analysis uncovers patterns, behaviors, and preferences among developers worldwide through detailed data processing and visualizations.
 
+The 2023 Stack Overflow Developer Survey represents one of the most comprehensive datasets on the state of software development, providing insights into the global developer community.
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-v3.8+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/status-complete-success.svg" alt="Status">
 </p>
-
-## Project Overview
-
-This project presents a comprehensive exploratory data analysis (EDA) of the 2023 Stack Overflow Developer Survey. The analysis uncovers patterns, behaviors, and preferences among developers worldwide through detailed data processing and visualizations.
-
-The 2023 Stack Overflow Developer Survey represents one of the most comprehensive datasets on the state of software development, providing insights into the global developer community.
 
 ## Key Research Questions
 
@@ -43,25 +39,25 @@ Python 3.8+
 
 The analysis reveals several important trends in the developer community:
 
-**Geographic Patterns**: Developers in Western Europe and North America report the highest job satisfaction levels, with Scandinavian countries leading in work-life balance metrics.
+- **Geographic Patterns**: Developers in Western Europe and North America report the highest job satisfaction levels, with Scandinavian countries leading in work-life balance metrics.
 
-**Language Evolution**: Python and JavaScript maintain their dominant positions in current usage, while Rust and Go show strong growth in developer interest for future learning.
+- **Language Evolution**: Python and JavaScript maintain their dominant positions in current usage, while Rust and Go show strong growth in developer interest for future learning.
 
-**Work Preferences**: Remote work continues to gain favor across all regions and experience levels, with hybrid arrangements becoming the preferred middle ground for many organizations.
+- **Work Preferences**: Remote work continues to gain favor across all regions and experience levels, with hybrid arrangements becoming the preferred middle ground for many organizations.
 
-**Open Source Engagement**: Contribution to open source projects correlates strongly with experience level, with senior developers showing significantly higher participation rates.
+- **Open Source Engagement**: Contribution to open source projects correlates strongly with experience level, with senior developers showing significantly higher participation rates.
 
-**Career Mobility**: Résumé update frequency varies by job satisfaction and market conditions, with developers in high-demand specializations updating more frequently.
+- **Career Mobility**: Résumé update frequency varies by job satisfaction and market conditions, with developers in high-demand specializations updating more frequently.
 
 ## Dataset Information
 
-**Source**: [2023 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2023/)
+- **Source**: [2023 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2023/)
 
-**Size**: 90,000+ responses from developers worldwide
+- **Size**: 90,000+ responses from developers worldwide
 
-**Coverage**: Global survey with representation across all major regions and development specializations
+- **Coverage**: Global survey with representation across all major regions and development specializations
 
-**Format**: CSV with comprehensive demographic, technical, and preference data
+- **Format**: CSV with comprehensive demographic, technical, and preference data
 
 ## Getting Started
 
