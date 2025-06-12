@@ -1,5 +1,6 @@
-![github_header_svg (1)](https://github.com/user-attachments/assets/6d427289-f6a4-49ac-b8b7-952ca89c2091)# Exploratory Data Analysis of the 2023 Stack Overflow Developer Survey
-![<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+![github_header_svg](https://github.com/user-attachments/assets/708df374-39b8-43aa-9545-173867eef5f0)# Exploratory Data Analysis of the 2023 Stack Overflow Developer Survey
+
+![Upload<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
@@ -118,7 +119,8 @@
     <rect x="80" y="0" width="30" height="30" rx="8" fill="rgba(255,255,255,0.2)"/>
     <text x="95" y="20" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16">📈</text>
   </g>
-</svg>Uploading github_header_svg (1).svg…]()
+</svg>ing github_header_svg.svg…]()
+
 
 
 This project presents a comprehensive exploratory data analysis (EDA) of the 2023 Stack Overflow Developer Survey. The analysis uncovers patterns, behaviors, and preferences among developers worldwide through detailed data processing and visualizations.
