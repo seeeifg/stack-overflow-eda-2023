@@ -104,5 +104,5 @@ Results demonstrate clear trends in developer preferences, compensation patterns
 
 ## Author
 
-**[Seif El-Deen Gaber](https://github.com/seeeifg)** - Data Engineer
+**GitHub:** [seeeifg](https://github.com/seeeifg)
 
