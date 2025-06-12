@@ -86,13 +86,13 @@ The analysis reveals several important trends in the developer community:
 
 The notebook follows a structured approach to data exploration:
 
-**Data Preparation**: Initial loading, cleaning, and preprocessing steps to ensure data quality and consistency.
+- **Data Preparation**: Initial loading, cleaning, and preprocessing steps to ensure data quality and consistency.
 
-**Exploratory Analysis**: Systematic examination of each research question with descriptive statistics and initial visualizations.
+- **Exploratory Analysis**: Systematic examination of each research question with descriptive statistics and initial visualizations.
 
-**Deep Dive Visualizations**: Detailed charts and graphs that reveal patterns and relationships in the data.
+- **Deep Dive Visualizations**: Detailed charts and graphs that reveal patterns and relationships in the data.
 
-**Insights and Conclusions**: Data-driven findings with practical implications for the developer community.
+- **Insights and Conclusions**: Data-driven findings with practical implications for the developer community.
 
 ## Results Summary
 
