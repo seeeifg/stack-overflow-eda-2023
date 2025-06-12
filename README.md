@@ -98,7 +98,7 @@ The notebook follows a structured approach to data exploration:
 
 ## Results Summary
 
-The comprehensive analysis provides actionable insights for developers, employers, and the broader tech community. Each research question receives thorough treatment with supporting visualizations and statistical analysis.
+The analysis provides actionable insights for developers, employers, and the broader tech community. Each question receives thorough treatment with supporting visualizations and statistical analysis.
 
 Results demonstrate clear trends in developer preferences, compensation patterns, and career trajectories that can inform both individual career decisions and organizational hiring strategies.
 
